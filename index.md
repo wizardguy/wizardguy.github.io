@@ -1,9 +1,11 @@
+![Bigfeet Studio](/assets/images/bnt.png)
+
 ## Welcome to Bigfeet Studio.
 
 ## My Apps
 
 ### PhotosMeasure
-![](/assets/images/electrocat.png)
+![PhotosMeasure](/assets/images/pm.png)
 
 PhotosMeasure is a fancy small convenient utility which can allow you tag the size of or comment on something on picture very quickly and conveniently.
 It can significantly reduce the working time when you're doing decoration or measuring, improving your work efficiency.
@@ -25,7 +27,7 @@ PhotosMeasure has the following(not limited to) features:
 [Privacy Policy](https://bigfeetstudio.cn/app/updates/photosmeasure/privacy_policy_en.html)
 
 ### Todo Remider
-![](/assets/images/electrocat.png)
+![Todo Reminder](/assets/images/todo.png)
 
 Todo'Reminder is a simple and convenient to-do list management application that helps you complete your daily tasks with ease. It can help you record ideas, tasks you want to accomplish, and where you want to go. Whether it's a planned trip or a work plan, Todo'Reminder makes it easier to manage a variety of tasks.
 

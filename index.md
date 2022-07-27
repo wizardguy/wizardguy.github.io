@@ -1,14 +1,56 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+## Welcome to Bigfeet Studio.
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+## My Apps
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+### PhotosMeasure
+![](/assets/images/electrocat.png)
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+PhotosMeasure is a fancy small convenient utility which can allow you tag the size of or comment on something on picture very quickly and conveniently.
+It can significantly reduce the working time when you're doing decoration or measuring, improving your work efficiency.
+
+PhotosMeasure has the following(not limited to) features:
+1) Finger gestures to draw and tag;
+2) Multiple colors for lines and texts;
+3) Different types of line endpoints;
+4) Text tags and comments;
+5) Angle tags;
+6) Shapes tags;
+7) Export to album;
+8) Project saving and importing;
+9) Image zoom in and out;
+10) Multiple widget icons;
+11) Batch image export;
+
+[Terms of Use](https://bigfeetstudio.cn/app/updates/tou.html)
+[Privacy Policy](https://bigfeetstudio.cn/app/updates/photosmeasure/privacy_policy_en.html)
+
+### Todo Remider
+![](/assets/images/electrocat.png)
+
+Todo'Reminder is a simple and convenient to-do list management application that helps you complete your daily tasks with ease. It can help you record ideas, tasks you want to accomplish, and where you want to go. Whether it's a planned trip or a work plan, Todo'Reminder makes it easier to manage a variety of tasks.
+
+The main functions of the IdeaPill:
+• Add, organize, and schedule tasks from your phone & tablet
+• Set deadlines and reminders
+• “Big Bang”function to quickly process long texts
+• Voice recognition function, use text to quickly input text, and record your thoughts at any time!
+
+[Terms of Use](https://bigfeetstudio.cn/app/updates/tou.html)
+[Privacy Policy](https://bigfeetstudio.cn/app/updates/ideapill/privacy_policy_en.html)
+
+
+[Terms of Use](https://bigfeetstudio.cn/app/updates/tou.html)
+[Privacy Policy](https://bigfeetstudio.cn/app/updates/photosmeasure/privacy_policy_en.html)
 
 ### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### PhotosMeasure:
+[EN](http://cn.mikecrm.com/USLHlbR)
+[CN](http://cn.mikecrm.com/vdjPIFd)
+[TW](http://cn.mikecrm.com/e5qvT9g)
+[JP](http://bigfeet-photomeasure.mikecrm.com/Vq4rb2d)
+
+#### Todo Reminder:
+[EN](http://bigfeet-photomeasure.mikecrm.com/TRpguWe)
+[CN](http://bigfeet-photomeasure.mikecrm.com/DyetKB8)
+
+Or :email:	EmailTo: feedback@bigfeet.com.cn

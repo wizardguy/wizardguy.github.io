@@ -5,7 +5,7 @@
 ## My Apps
 
 ### PhotosMeasure
-![PhotosMeasure](/assets/images/pm.png)
+![PhotosMeasure](/assets/images/pm.jpg)
 
 PhotosMeasure is a fancy small convenient utility which can allow you tag the size of or comment on something on picture very quickly and conveniently.
 It can significantly reduce the working time when you're doing decoration or measuring, improving your work efficiency.
